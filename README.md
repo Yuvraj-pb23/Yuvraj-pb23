@@ -2,7 +2,7 @@
 Improving my Skills 
 
 🌱 I’m currently learning:
-C++ and DSA
+C++ and DSA, Heading towards Backend Software development
 
 📖 Current Education:
 BCA Student at CGC Landran
