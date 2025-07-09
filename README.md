@@ -2,7 +2,7 @@
 Improving my Skills 
 
 🌱 I’m currently learning:
-C# and .Net, Heading towards Backend Software development
+C# and .Net, Generative AI, Heading towards Backend Software development
 
 📖 Current Education:
 BCA Student at CGC Landran
